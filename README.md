@@ -1,2 +1,3 @@
 # tp1final
- https://hub.gke2.mybinder.org/user/chaymazidi-tp1final-dulfdmh1/lab/tree/tp1final.py 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chaymazidi/tp1final/main)
